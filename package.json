@@ -1,0 +1,17 @@
+{
+  "name": "datalayer-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "jimp": "^0.22.12",
+    "puppeteer": "^22.10.0"
+  }
+}
