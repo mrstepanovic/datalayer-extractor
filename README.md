@@ -9,7 +9,6 @@ To install and set up the project, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/mrstepanovic/datalayer-extractor.git
-    
     cd datalayer-extractor
     ```
 
@@ -22,10 +21,8 @@ To install and set up the project, follow these steps:
 To run the script and extract dataLayer values from a specified URL, use the following command:
 
 ```bash
-node extract-datalayer.js <URL>
+node extract-datalayer.js <URL you want to analyze>
 ```
-
-Replace <URL> with the URL you want to analyze.
 
 Example:
 
@@ -45,4 +42,4 @@ The script will perform the following actions:
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. """
+This project is licensed under the MIT License.
